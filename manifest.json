@@ -1,0 +1,10 @@
+{
+  "name": "Workout — Scheda",
+  "short_name": "Workout",
+  "description": "Scheda di allenamento e diario topset personale",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#111310",
+  "theme_color": "#111310",
+  "icons": [{"src":"apple-touch-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
